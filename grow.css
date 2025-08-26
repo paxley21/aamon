@@ -6,7 +6,7 @@
 }
 
 body {
-    background-image: url('A-Minecraft-Movie_Bees_Wallpaper/Minecraft_Bee2_Wallpaper_2560x1440.png');
+    background-image: url(Minecraft_Bee2_Wallpaper_2560x1440.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -93,3 +93,4 @@ h1 {
     transform: scale(1.05);
     box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4);
 }
+
